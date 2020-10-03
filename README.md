@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 I’m currently learning Flutter and Website Design 🎨
-<br>
-<br>
-<div style="margin-right: 10px">
+
+<div style="margin-top: 20px">
   <a href="">
     <img src="https://github-readme-stats.vercel.app/api?username=MartienJun&include_all_commits=true&show_icons=true&count_private=true&theme=nord">
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MartienJun&layout=compact&theme=nord">
+  <a href="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartienJun&layout=compact&theme=nord">
   </a>	
 </div>
