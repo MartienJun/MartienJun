@@ -3,7 +3,7 @@
 I’m currently learning Flutter and Website Design 🎨
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=MartienJun&include_all_commits=true&show_icons=true&count_private=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=MartienJun&include_all_commits=true&show_icons=true&count_private=true&theme=myTheme">
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartienJun&layout=compact">
