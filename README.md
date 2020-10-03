@@ -2,7 +2,7 @@
 
 I’m currently learning Flutter and Website Design 🎨
 
-<div style="margin-top: 30px">
+<div style="margin-top: 130px">
   <a href="">
     <img src="https://github-readme-stats.vercel.app/api?username=MartienJun&include_all_commits=true&show_icons=true&count_private=true&theme=nord">
   </a>
